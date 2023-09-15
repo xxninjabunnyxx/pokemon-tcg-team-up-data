@@ -1,0 +1,93 @@
+---
+id: sm9-68
+name: Jynx
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '90'
+types:
+- Psychic
+attacks:
+- name: Dazzle Dance
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: ''
+  text: Your opponent's Active Pokémon is now Confused.
+- name: Mysterious Dance
+  cost:
+  - Psychic
+  - Colorless
+  convertedEnergyCost: 2
+  damage: ''
+  text: For each of your opponent's Benched Pokémon, put 1 damage counter on your
+    opponent's Pokémon in any way you like.
+weaknesses:
+- type: Psychic
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: sm9
+  name: Team Up
+  series: Sun & Moon
+  printedTotal: 181
+  total: 198
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: TEU
+  releaseDate: 2019/02/01
+  updatedAt: 2021/09/01 05:37:00
+  images:
+    symbol: https://images.pokemontcg.io/sm9/symbol.png
+    logo: https://images.pokemontcg.io/sm9/logo.png
+number: '68'
+artist: HYOGONOSUKE
+rarity: Uncommon
+flavorText: It sways its hips to a rhythm all its own. The precise movements of Jynx
+  living in Alola are truly wonderful.
+nationalPokedexNumbers:
+- 124
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sm9/68.png
+  large: https://images.pokemontcg.io/sm9/68_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sm9-68
+  updatedAt: 2023/09/15
+  prices:
+    normal:
+      low: 0.09
+      mid: 0.25
+      high: 1.37
+      market: 0.15
+      directLow: 
+    reverseHolofoil:
+      low: 0.14
+      mid: 0.35
+      high: 1.0
+      market: 0.3
+      directLow: 0.25
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sm9-68
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.12
+    lowPrice: 0.01
+    trendPrice: 0.11
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.05
+    reverseHoloTrend: 0.42
+    lowPriceExPlus: 0.01
+    avg1: 0.03
+    avg7: 0.13
+    avg30: 0.1
+    reverseHoloAvg1: 0.51
+    reverseHoloAvg7: 0.44
+    reverseHoloAvg30: 0.42

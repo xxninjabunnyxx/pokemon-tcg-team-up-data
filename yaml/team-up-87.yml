@@ -1,0 +1,96 @@
+---
+id: sm9-87
+name: Mightyena
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '100'
+types:
+- Darkness
+evolvesFrom: Poochyena
+attacks:
+- name: Bite
+  cost:
+  - Darkness
+  convertedEnergyCost: 1
+  damage: '30'
+  text: ''
+- name: Dark Fang
+  cost:
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '50'
+  text: Discard a random card from your opponent's hand.
+weaknesses:
+- type: Fighting
+  value: "×2"
+resistances:
+- type: Psychic
+  value: "-20"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: sm9
+  name: Team Up
+  series: Sun & Moon
+  printedTotal: 181
+  total: 198
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: TEU
+  releaseDate: 2019/02/01
+  updatedAt: 2021/09/01 05:37:00
+  images:
+    symbol: https://images.pokemontcg.io/sm9/symbol.png
+    logo: https://images.pokemontcg.io/sm9/logo.png
+number: '87'
+artist: kirisAki
+rarity: Rare
+flavorText: It chases down prey in a pack of around ten. They defeat foes with perfectly
+  coordinated teamwork.
+nationalPokedexNumbers:
+- 262
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sm9/87.png
+  large: https://images.pokemontcg.io/sm9/87_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sm9-87
+  updatedAt: 2023/09/15
+  prices:
+    normal:
+      low: 0.14
+      mid: 0.32
+      high: 1.33
+      market: 0.29
+      directLow: 0.28
+    reverseHolofoil:
+      low: 0.41
+      mid: 0.54
+      high: 1.68
+      market: 0.55
+      directLow: 0.49
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sm9-87
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.18
+    lowPrice: 0.05
+    trendPrice: 0.26
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.92
+    reverseHoloLow: 0.32
+    reverseHoloTrend: 0.87
+    lowPriceExPlus: 0.05
+    avg1: 0.1
+    avg7: 0.18
+    avg30: 0.29
+    reverseHoloAvg1: 1.0
+    reverseHoloAvg7: 1.12
+    reverseHoloAvg30: 0.78
